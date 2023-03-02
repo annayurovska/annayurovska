@@ -7,6 +7,10 @@
 - 4+ years experience in Quality Assurance, Manual and Automation Testing of Web, Client/Server, Cloud Based, Desktop, and Mobile Applications
 - Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix
 - Front-End, Back-End, End-to-End, Regression, and Performance testing
+
+<div align="center">
+  <img src=https://sd.keepcalms.com/i-w600/keep-calm-we-are-qa-girls.jpg/>
+</div>
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
