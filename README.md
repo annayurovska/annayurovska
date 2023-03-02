@@ -1,4 +1,4 @@
-### Hi there 👋 my name is [Tatiana Kravchenko](https://www.linkedin.com/in//tati-kravchenko/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+### Hi there 👋 my name is [Anna Yurovska] [([https://www.linkedin.com/in/annayurovska/])](url), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
