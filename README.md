@@ -1,5 +1,7 @@
-### Hi there 👋 my name is [Anna Yurovska [([https://www.linkedin.com/in/annayurovska/])](url), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
-
+### Hi there 👋 my name is Anna Yurovska, I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+- Linkedin Profile [https://www.linkedin.com/in/annayurovska/](url)
+- 4+ years experience in Quality Assurance, Manual and Automation Testing of Web, Client/Server, Cloud Based, Desktop, and Mobile Applications
+- Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
