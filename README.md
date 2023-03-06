@@ -30,6 +30,8 @@ Tools I use:
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -43,4 +45,7 @@ Here are some ideas to get you started:
 -->
 
  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ 
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" title="AI" alt="AI" height="400" width="1000"/>
+  </div>
  
