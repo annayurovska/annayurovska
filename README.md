@@ -27,6 +27,11 @@ Tools I use:
 <div align="center">
   <img src=https://sd.keepcalms.com/i-w600/keep-calm-we-are-qa-girls.jpg width="400" height="500"/>
 </div>
+ 
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ 
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" title="AI" alt="AI" height="400" width="1000"/>
+  </div>
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
