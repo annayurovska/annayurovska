@@ -25,7 +25,7 @@ Tools I use:
   
 
 <div align="center">
-  <img src=https://sd.keepcalms.com/i-w600/keep-calm-we-are-qa-girls.jpg width="400" height="500"/>
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.se%2Famp%2Fpin%2F197454764898545261%2F&psig=AOvVaw2iN6__nocGNoOGJZann5jI&ust=1679105833087000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLiAl-jy4f0CFQAAAAAdAAAAABBO/>
 </div>
  
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
