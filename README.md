@@ -25,7 +25,7 @@ Tools I use:
   
 
 <div align="center">
-  <img src=[https://i.pinimg.com/originals/21/4e/c9/214ec941c23b3ecb03d06265efb4c469.jpg](https://i.pinimg.com/originals/26/1a/07/261a07b8ce7e195149a002e9f2e673ac.jpg)>
+  <img src=[https://i.pinimg.com/originals/21/4e/c9/214ec941c23b3ecb03d06265efb4c469.jpg]>
 </div>
  
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
