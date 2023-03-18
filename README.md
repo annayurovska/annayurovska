@@ -25,13 +25,27 @@ Tools I use:
   
 
 <div align="center">
-  <img src=(https://pixabay.com/illustrations/software-testing-service-762486/)>
+  <img src="https://i.pinimg.com/originals/21/4e/c9/214ec941c23b3ecb03d06265efb4c469.jpg">
 </div>
  
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" title="AI" alt="AI" height="400" width="1000"/>
-  </div>
+ 
+TECHNICAL SKILLS:
+- Automation Testing Tools: Selenium WebDriver, Selenium IDE, Postman API, Swagger, GTMetrix, Lighthouse, SpeedLab, BrowserStack.
+- Working knowledge: Python, JavaScript, SQL, MySQL, XPath, XML, HTML5, CSS, JSON.
+- Methodologies: Agile / SCRUM
+- Documentation tools: Confluence, MS Office, Google Drive, GitHub.
+- Bug tracking tools: Jira, Microsoft CRM, Confluence.
+- Security testing tools: Mozilla Observatory, Snyk.
+- IDE: PyCharm, WebStorm. Source control: Git, GitHub
+ 
+ 
+
+ 
+ <div align="center">
+  <img src="https://www.nexsoftsys.com/images/Functional-trainging.gif">
+ </div>
+ 
 <!--
 **annayurovska/annayurovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,8 +63,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
- 
-  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" title="AI" alt="AI" height="400" width="1000"/>
-  </div>
+
  
